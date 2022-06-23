@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="local">本地音乐</string>
+    <string name="recentPlay">最近播放</string>
+    <string name="favor">我的收藏</string>
+    <string name="song_title">歌曲名称</string>
+    <string name="not_playing">未播放歌曲</string>
+    <string name="album_cover">专辑封面</string>
+    <string name="play_btn">播放按钮</string>
+    <string name="pause_btn">暂停按钮</string>
+    <string name="progress_bar_start">0:00</string>
+    <string name="progress_bar_end_default">1:00</string>
+    <string name="next_btn">下一首按钮</string>
+    <string name="previous_btn">上一首按钮</string>
+    <string name="repeat_btn">重复模式按钮</string>
+    <string name="favor_btn">收藏按钮</string>
+    <string name="add_to_playlist">添加到歌单</string>
+    <string name="goto_album">查看专辑</string>
+    <string name="goto_artist">查看歌手</string>
+</resources>
